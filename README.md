@@ -23,7 +23,7 @@ bring-an-umbrella/
 ```bash
 cd backend
 npm install
-npm run dev          # starts on http://localhost:3001
+npm run dev          # starts on http://localhost:3000
 ```
 
 ### API Endpoints
